@@ -1,4 +1,15 @@
-### Hi there 👋
+## Synopsis
+Coder, programmer and any other synonym for it, thats me!
+
+Young[19M] and ambitous, I do a lot of projects and publish them here on Github for people to see and review!
+Most of my experience is on web-development[Javascript, Php, HTML, CSS] and do my projects with the React library. I have used other frameworks / library such as bootstrap, laravel etc but I am currently focusing on React.
+
+I have done a lot of collaberation projects, been team-lead on most of them actually, meaning I am no stranger to working in teams and organizing tasks.
+
+If there is anything, and I mean ANYTHING...
+📫  Just mail me here: elhaddaouiwassim@gmail.com
+
+🔭 I’m currently working on: PoliceApp revamp!
 
 <!--
 **CallMeSimo/CallMeSimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
